@@ -1,0 +1,10 @@
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\bin\Debug\WinForm_Province_City.exe.config
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\bin\Debug\WinForm_Province_City.exe
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\bin\Debug\WinForm_Province_City.pdb
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.csprojAssemblyReference.cache
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.Form1.resources
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.Properties.Resources.resources
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.csproj.GenerateResource.cache
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.csproj.CoreCompileInputs.cache
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.exe
+D:\myGit01\myCSharpCode\WinForm_Province_City\WinForm_Province_City\obj\Debug\WinForm_Province_City.pdb
