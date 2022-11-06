@@ -11,5 +11,10 @@ namespace WinForm_Province_City
         public int AreaId { get; set; }
         public string AreaName { get; set; }
         public int AreaPid { get; set; }
+
+        public override string ToString()
+        {
+            return AreaName;
+        }
     }
 }
