@@ -40,6 +40,7 @@ namespace WinForm_Province_City
             this.cbxProvince.Name = "cbxProvince";
             this.cbxProvince.Size = new System.Drawing.Size(189, 23);
             this.cbxProvince.TabIndex = 0;
+            this.cbxProvince.SelectedIndexChanged += new System.EventHandler(this.cbxProvince_SelectedIndexChanged);
             // 
             // cbxCity
             // 
@@ -48,6 +49,7 @@ namespace WinForm_Province_City
             this.cbxCity.Name = "cbxCity";
             this.cbxCity.Size = new System.Drawing.Size(192, 23);
             this.cbxCity.TabIndex = 1;
+            ;
             // 
             // Form1
             // 
