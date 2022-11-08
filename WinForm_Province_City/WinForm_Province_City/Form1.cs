@@ -76,7 +76,8 @@ namespace WinForm_Province_City
                         while (reader.Read())
                         {
                             //int AreaId = int.Parse(reader["AreaId"].ToString());
-                            //把表格数据转换成对象的数据
+                            //把表格数据转换成对象的数据 
+
                             AreaInfo areaInfo = new AreaInfo();
                             areaInfo.AreaId = int.Parse(reader["AreaId"].ToString());
                             areaInfo.AreaName = reader["AreaName"].ToString();
