@@ -82,6 +82,7 @@ namespace WinForm_Province_City
                             areaInfo.AreaId = int.Parse(reader["AreaId"].ToString());
                             areaInfo.AreaName = reader["AreaName"].ToString();
                             areaInfo.AreaPid = int.Parse(reader["AreaPid"].ToString());
+
                             //将生成的对象放到Combox。Combox的显示信息是Item对象的ToString()
                            
                             this.cbxCity.Items.Add(areaInfo);
