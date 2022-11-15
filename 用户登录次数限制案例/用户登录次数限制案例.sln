@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.399
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用户登录次数限制案例", "用户登录次数限制案例\用户登录次数限制案例.csproj", "{6DA6E361-18F6-48B2-B6A3-9AE187C233E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA6E361-18F6-48B2-B6A3-9AE187C233E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA6E361-18F6-48B2-B6A3-9AE187C233E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA6E361-18F6-48B2-B6A3-9AE187C233E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA6E361-18F6-48B2-B6A3-9AE187C233E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E034B7A-E659-43F7-A534-D83EEB4DF65C}
+	EndGlobalSection
+EndGlobal
