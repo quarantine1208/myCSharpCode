@@ -16,5 +16,10 @@ namespace 用户登录次数限制案例
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
