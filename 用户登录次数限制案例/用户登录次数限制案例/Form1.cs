@@ -56,7 +56,7 @@ namespace 用户登录次数限制案例
                         cmd.CommandText = @"update [myTestDB].[dbo].[UserInfo]  set [ErrorTimes]=ErrorTimes+1,[LastErrorDateTime]=getdate() where [UserName]='" + txtUserName.Text.Trim() + "'";
                         cmd.ExecuteNonQuery();
                         return;
-                    }
+                    }  
                     if (uInfo.ErrorTimes <= 3 || DateTime.Now.Subtract(uInfo.LastErrorDate).Minutes>15)
                     {
                         MessageBox.Show("登录成功");
