@@ -1,0 +1,10 @@
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\bin\Debug\DataSetDemo1.exe.config
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\bin\Debug\DataSetDemo1.exe
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\bin\Debug\DataSetDemo1.pdb
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.csprojAssemblyReference.cache
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.MainFrm.resources
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.Properties.Resources.resources
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.csproj.GenerateResource.cache
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.csproj.CoreCompileInputs.cache
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.exe
+D:\myGit01\myCSharpCode\DataSetDemo1\DataSetDemo1\obj\Debug\DataSetDemo1.pdb
